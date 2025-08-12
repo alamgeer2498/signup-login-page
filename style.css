@@ -24,6 +24,7 @@ h1{
 @media (max-width: 480px) {
   .main {
     width: 80%;
+    height: 100%;
     margin: auto;
   }
 
